@@ -35,3 +35,6 @@
 
 ### Format code
 - `yarn format`
+
+### Config firebase
+- copy service-account-key.json to src/third-party/service-account-key.json
